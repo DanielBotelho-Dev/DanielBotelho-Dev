@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Daniel Botelho 👋
 
-<!--
-**DanielBotelho-Dev/DanielBotelho-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java Developer in progress | Backend Development
 
-Here are some ideas to get you started:
+Software Engineering student focused on building a strong foundation in Java, C, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Java and exploring backend development, with an interest in APIs, databases, and software architecture.
+
+## 🛠️ Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,git,github&theme=light)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBotelho-Dev&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBotelho-Dev&layout=compact&theme=default)
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Botelho-blue?style=flat&logo=linkedin)](SEU_LINKEDIN_AQUI)
