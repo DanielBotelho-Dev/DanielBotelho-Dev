@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Botelho 👋
 
-### Software Engineer | Java Developer in progress | Backend Development
+### Software Engineering Student | Learning Java for Backend Development
 
 Software Engineering student focused on building a strong foundation in Java, C, and software development.
 
@@ -8,7 +8,11 @@ Currently learning Java and exploring backend development, with an interest in A
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,git,github,intellij&theme=light)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
 
 ## 📫 Contact
 
