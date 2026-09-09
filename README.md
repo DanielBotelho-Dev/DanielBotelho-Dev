@@ -10,10 +10,6 @@ Currently learning Java and exploring backend development, with an interest in A
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,git,github,intellij&theme=light)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBotelho-Dev&show_icons=true&theme=default)
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Botelho-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-guimar%C3%A3es-botelho/)
