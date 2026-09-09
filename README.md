@@ -8,7 +8,7 @@ Currently learning Java and exploring backend development, with an interest in A
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,git,github,intellij&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,git,github,idea&theme=light)](https://skillicons.dev)
 
 ## 📫 Contact
 
