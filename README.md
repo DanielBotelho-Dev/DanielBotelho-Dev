@@ -12,7 +12,7 @@ Currently learning Java and exploring backend development, with an interest in A
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBotelho-Dev&show_icons=true&theme=default)
 
 ## 📫 Contact
 
